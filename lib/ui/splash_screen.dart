@@ -1,3 +1,9 @@
+/**
+ * Copyrighted. Manas Malla 2024©
+ * A simple splash screen to match the Ui in Figma,
+ * demonstration the use of rows, columns and stacks.
+ */
+
 import 'package:flut_to_do/constants.dart';
 import 'package:flutter/material.dart';
 
